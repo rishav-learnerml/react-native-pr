@@ -1,2 +1,3 @@
 # react-native-pr
-React Native Practice
+
+React Native Practice - building react-native apps
